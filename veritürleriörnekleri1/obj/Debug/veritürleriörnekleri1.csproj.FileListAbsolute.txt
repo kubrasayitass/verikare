@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\veritürleriörnekleri1\veritürleriörnekleri1\bin\Debug\veritürleriörnekleri1.exe.config
+C:\Users\User\source\repos\veritürleriörnekleri1\veritürleriörnekleri1\bin\Debug\veritürleriörnekleri1.exe
+C:\Users\User\source\repos\veritürleriörnekleri1\veritürleriörnekleri1\bin\Debug\veritürleriörnekleri1.pdb
+C:\Users\User\source\repos\veritürleriörnekleri1\veritürleriörnekleri1\obj\Debug\veritürleriörnekleri1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\veritürleriörnekleri1\veritürleriörnekleri1\obj\Debug\veritürleriörnekleri1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\veritürleriörnekleri1\veritürleriörnekleri1\obj\Debug\veritürleriörnekleri1.Form1.resources
+C:\Users\User\source\repos\veritürleriörnekleri1\veritürleriörnekleri1\obj\Debug\veritürleriörnekleri1.Properties.Resources.resources
+C:\Users\User\source\repos\veritürleriörnekleri1\veritürleriörnekleri1\obj\Debug\veritürleriörnekleri1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\veritürleriörnekleri1\veritürleriörnekleri1\obj\Debug\veritürleriörnekleri1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\veritürleriörnekleri1\veritürleriörnekleri1\obj\Debug\veritürleriörnekleri1.exe
+C:\Users\User\source\repos\veritürleriörnekleri1\veritürleriörnekleri1\obj\Debug\veritürleriörnekleri1.pdb
